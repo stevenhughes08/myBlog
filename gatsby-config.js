@@ -26,7 +26,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
         name: 'images',
       },
-    },g
+    },
     `gatsby-transformer-remark`,
     `gatsby-plugin-offline`,
     {
