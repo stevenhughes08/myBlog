@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Codetape`,
-    description: `Adventures in tech.`,
+    description: `A blog about modular technology, art and design.`,
     author: `Steven Hughes`,
   },
   plugins: [
