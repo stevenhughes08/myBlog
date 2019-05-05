@@ -7,7 +7,7 @@ import Search from "../components/SearchContainer"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="CodeTape" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="CodeTape" keywords={[`gatsby`, `application`, `react`, `Steven Hughes`, `Technology`, `tech`, `GIT`, `coding`, `programming`, `computers`, `computer`, `design`]} />
     
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       
