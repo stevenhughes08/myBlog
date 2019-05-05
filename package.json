@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "axios": "^0.18.0",
     "gatsby": "^2.3.16",
     "gatsby-image": "^2.0.37",
     "gatsby-plugin-manifest": "^2.0.28",
@@ -14,6 +15,7 @@
     "gatsby-source-filesystem": "^2.0.33",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.17",
+    "js-search": "^1.4.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
