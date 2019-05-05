@@ -34,8 +34,6 @@ module.exports = {
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages',
-        path: path.join(__dirname, `src`, `images`),
-        name: `images`,
       },
     },
     
